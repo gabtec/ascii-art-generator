@@ -3,7 +3,7 @@
 This cli tool will generate a javascript file that exports a ascii-art banner string.
 I use it a lot to create "motd" for my REST API servers, like this example:
 
-<img src="https://github.com/gabtec/ascii-art-generator/raw/master/assets/example.png">
+<img src="https://github.com/gabtec/ascii-art-generator/blob/main/assets/example.png">
 
 Behind the scenes it uses 'ascii-art' npm packages.
 credits: https://github.com/khrome/ascii-art
