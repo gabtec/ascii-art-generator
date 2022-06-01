@@ -1,0 +1,19 @@
+{
+  "name": "ascii-art-generator",
+  "version": "1.0.0",
+  "description": "This cli tool will generate a javascript file that exports a ascii-art banner string. I use it a lot to create motd for my REST API services",
+  "main": "./lib/cli.js",
+  "bin": {
+    "asciigen": "./lib/cli.js"
+  },
+  "scripts": {
+    "test": "node tests/test.js",
+    "start": "node lib/cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "colors": "^1.4.0"
+  }
+}
