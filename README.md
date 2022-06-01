@@ -28,4 +28,4 @@ To really see the color in action, in the project where you will include the gen
 
 If you want to use other fonts, clone this repo.
 Copy your \*.flf font files to node_modules/ascii-art-font.
-Change the fontName variable, in 'commands/generateArt.js', to the name of your font.
+Change the defaultFont variable, in 'commands/generateArt.js', to the name of your font.
